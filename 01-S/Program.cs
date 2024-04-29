@@ -17,7 +17,7 @@
 
                 Neste programa, aplicamos o princípio S do SOLID da seguinte maneira:
 
-                - Criamos duas classes distintas:
+                - Criamos duas classes distintas no Arquivo CoffeeShop.cs:
                     - OrderManager: Responsável por gerenciar os pedidos dos clientes.
                     - OrderDisplay: Responsável por exibir os pedidos na tela.
 

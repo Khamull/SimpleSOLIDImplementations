@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01_S
 {
-    // Classe que tem a UNICA RESPONSABILIDADE de gerenciar os pedidos dos clientes
+    // Classe que tem a UNICA RESPONSABILIDADE de GERENCIAR os pedidos dos clientes
     public class OrderManager
     {
         private List<string> orders;
