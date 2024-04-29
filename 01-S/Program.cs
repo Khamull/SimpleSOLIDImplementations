@@ -26,6 +26,7 @@
 
                 Ao separar essas responsabilidades em classes distintas, tornamos o código mais coeso e fácil de entender e manter, seguindo o princípio da responsabilidade única do SOLID.
             ");
+            //Thread.Sleep(1000); somente para deixar o fluxo menos rapido e facilitar entendimento!
             Thread.Sleep(1000);
             Console.WriteLine("##################### Exemplo de Execução #######################");
 
